@@ -1,0 +1,17 @@
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Audio assets — reference clip is personal; output is generated
+peripherals/assets/
+
+# uv / pip
+uv.lock
+
+# macOS
+.DS_Store
